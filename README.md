@@ -3,12 +3,6 @@
 ## 🚀 About Me
 อ่านหาพ่อมึงหรอ
 
-## 🛠 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-
 ## 📊 My GitHub Journey
 ![Pramote-29's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pramote-29&show_icons=true&theme=dark)
 
