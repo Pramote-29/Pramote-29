@@ -1,7 +1,7 @@
 # สวัสดี! 👋 ปราโมทย์คนดีคนเดิม
 
 ## 🚀 About Me
-อ่านหาพ่่อมึงหรอ
+อ่านหาพ่อมึงหรอ
 
 ## 🛠 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
