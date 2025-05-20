@@ -1,7 +1,3 @@
-# สวัสดี! 👋 ปราโมทย์คนดีคนเดิม
-
-## 🚀 About 
-อ่านหาxxxหรอ
 
 ## 📊 My GitHub Journey
 ![Pramote-29's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pramote-29&show_icons=true&theme=dark)
